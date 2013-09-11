@@ -8,5 +8,10 @@ namespace HuiTu.Superman.Model
     public class User
     {
         public int Id { get; set; }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        public string Name { get; set; }
     }
 }
